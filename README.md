@@ -1,10 +1,19 @@
+# Folder structure
+  create a new folder
+              -create another folder named user-app
+                -public folder
+                -src folder
+              -app.js
+              -mongo.js
+              -package.json
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Backend Code
 
-In the project directory, you can run:
+In the project directory, you need to copy 2 folders mongo.js and app.js.These 2 files are the files which contain
+backend code.
 
 ### `npm start`
 
